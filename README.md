@@ -8,12 +8,20 @@ The objective is to identify users who are going to churn or exit the music stre
 - Numpy
 - Seaborn
 - Matplotlib
-- Pyspark.sql
-- Pyspark.ml
+- Pyspark
+
 
 #### Files included in the repository
 - Sparkify.ipynb - Jupyter notebook that contains the code used to load, clean, analyse and model the data.
 
 #### Summary
+Based on the results, we are able to confidently predict users who may churn with an accuracy of 77% and an F1 score of 70%.
 
 #### Acknowledgements
+https://sparkbyexamples.com/pyspark/
+
+
+#### Medium article 
+Link to the medium article https://medium.com/@alex.machariam/using-pyspark-to-predict-churn-on-sparkify-dataset-9d8aaf1d2437
+
+
